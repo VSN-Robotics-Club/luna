@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+google-generativeai
+pyttsx3
+speechrecognition
+pyserial
+torch
