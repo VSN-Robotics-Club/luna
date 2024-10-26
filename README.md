@@ -1,9 +1,11 @@
 # luna
-# 🤖 Luna: The AI-Powered Raspberry Pi Robot by VSN Robotics Club
+# 🤖 Luna:  Raspberry Pi Robot by VSN Robotics Club
+  # The AI-Powered by Resbarry-pi b4 2018 
+
 
 
 ```markdown
-# 🌌 Luna: The AI-Powered Raspberry Pi Robot 🤖 by VSN Robotics Club
+# 🌌 Luna: The AI-Powered Raspberry Pi & Arduino Robot 🤖 by VSN Robotics Club
 
 Meet **Luna**, the intelligent and interactive AI assistant developed by the VSN Robotics Club! Luna is designed to communicate, answer questions, and recognize objects in real-time. Powered by YOLOv8 for object detection and custom-trained GPT for conversational intelligence, Luna brings AI to life!
 
@@ -49,10 +51,10 @@ These fantastic contributors made Luna come to life! Click on their names to lea
 | Name | Role | Link |
 |------|------|------|
 | [**Evan Lama**](https://www.facebook.com/profile.php?id=100069677232471) | Lead Developer 🛠️ | [Profile](https://www.facebook.com/profile.php?id=100069677232471) |
-| [**Kishwor Dulal / Unknowne Hart**](https://www.facebook.com/kishwor.dulal.19) | AI Specialist 🧠 | [Profile](https://www.facebook.com/kishwor.dulal.19) |
+| [**Kishwor Dulal / Unknowne Hart**](https://www.facebook.com/kishwor.dulal.19) | AI Specialist & Security Handler 🧠🔐 | [Profile](https://www.facebook.com/kishwor.dulal.19) |
 | [**Nishant Kumar Bhandari**](https://www.facebook.com/nishantkrbhandari) | Raspberry Pi Integration Expert 📡 | [Profile](https://www.facebook.com/nishantkrbhandari) |
-| [**Yugal Limbu**](https://www.facebook.com/messages/t/100051153849974) | Developer 💻 | [Profile](https://www.facebook.com/messages/t/100051153849974) |
-| [**Bishal Laxmi Gurung**](https://www.facebook.com/bishallaxmigurung) | Project Head 🏆 | [Profile](https://www.facebook.com/bishallaxmigurung) |
+| [**Yugal Limbu**](https://www.facebook.com/messages/t/100051153849974) | Developer & Raspberry Pi / Arduino Expert 💻🔌 | [Profile](https://www.facebook.com/messages/t/100051153849974) |
+| [**Bishal Laxmi Gurung**](https://www.facebook.com/bishallaxmigurung) | Project Head & Raspberry Pi / Arduino Expert 🏆🔋 | [Profile](https://www.facebook.com/bishallaxmigurung) |
 | [**Sawol Singh**](https://www.facebook.com/sawol.singh) | 3D Designer 🎨 | [Profile](https://www.facebook.com/sawol.singh) |
 | [**Aayush Neupane**](https://www.facebook.com/aayush.neupane.5099) | Security Handler 🔐 | [Profile](https://www.facebook.com/aayush.neupane.5099) |
 | [**Anjali Rajya Laxmi Shahi**](https://www.facebook.com/profile.php?id=100090668433570) | Event Manager 🎉 | [Profile](https://www.facebook.com/profile.php?id=100090668433570) |
@@ -71,3 +73,5 @@ We welcome contributions and feedback! 🌱 Reach out to any of the team members
 - **Multi-User Support**: Enable simultaneous user interaction with Luna.
 
 Stay tuned as Luna evolves, bringing more functionality and excitement! ✨
+```
+
